@@ -124,7 +124,7 @@ Page contains:
 1) Open `powerbi/*.pbix`
 2) If needed: refresh data source to point to `data/Walmart_clean.csv`
 
-## Repository Structure (recommended)
+## Repository Structure
 - data/
   - Walmart_Sales.csv
   - Walmart_clean.csv
