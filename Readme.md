@@ -76,6 +76,18 @@ Notes:
 4) Sales are concentrated in a subset of stores (top stores contribute disproportionately).
 5) Holiday uplift differs across stores, indicating store-specific demand patterns.
 
+## SQL Mini-Project (SQLite)
+
+Imported the cleaned dataset into SQLite and answered business questions with SQL (seasonality, peak weeks, store concentration, holiday impact).
+
+## Key Findings (SQL)
+
+- **Dataset coverage**: 6,435 weekly records from 2010-02-05 to 2012-10-26 (store-week level).
+- **Seasonality**: average weekly sales are highest in December (~1.282M) and November (~1.147M), while January is the lowest (~0.924M). This indicates a strong year-end demand peak.
+- **Peak weeks (total sales across all stores)**: the highest-sales weeks cluster in late November–December. Top weeks include 2010-12-24 (80.93M) and 2011-12-23 (76.99M), with additional peaks around Black Friday weeks (e.g., 2011-11-25 and 2010-11-26).
+- **Store concentration**: sales are uneven across stores; Store 20 has the highest total sales (~301.4M). Overall, the top 10 stores generate ~39.1% of total sales (top10_share = 0.3905).
+- **Holiday effect (overall)**: average sales during holiday weeks are higher than non-holiday weeks; holiday lift ≈ +7.84% (0.0784), meaning holidays are associated with a moderate uplift on average.
+
 ## Power BI Dashboard
 File: `Powerbi/Walmart_Sales.pbix` (name may vary)
 
