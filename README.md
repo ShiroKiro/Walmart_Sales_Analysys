@@ -17,7 +17,7 @@ Analyze Walmart weekly sales to understand:
 ## Dashboard Preview (Power BI)
 
 ### Main dashboard
-![Main dashboard](images/dashboard_full.png)
+![Main dashboard](images/dashboard_full1.png)
 
 ### Filters / slicers panel
 ![Slicers](images/slicers_panel.png)
