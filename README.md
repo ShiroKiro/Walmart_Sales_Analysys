@@ -7,6 +7,12 @@ Analyze Walmart weekly sales to understand:
 - holiday vs non-holiday differences
 - store contribution (top stores and concentration)
 
+## Business questions
+- Which months have the highest average weekly sales?
+- What are the top sales weeks across all stores?
+- How concentrated are sales across stores (Top 10 share)?
+- What is the overall holiday uplift?
+
 **Deliverables**
 1) Python EDA notebook (cleaning + analysis)
 2) SQL mini-project (SQLite): business questions in SQL
