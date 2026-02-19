@@ -1,4 +1,4 @@
-# Walmart Weekly Sales (2010–2012) — EDA + Power BI Dashboard
+**# Walmart Weekly Sales (2010–2012) — EDA + Power BI Dashboard
 
 ## Goal
 Analyze Walmart weekly sales to understand:
@@ -138,3 +138,4 @@ Page contains:
   - total_sales_by_store.png
   - filters_store20_holiday.png
 - README.md
+**
